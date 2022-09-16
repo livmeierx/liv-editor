@@ -34,11 +34,11 @@ The link to the deployed application is
 
 ## Built With
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
-* [NodeJS](https://nodejs.org/en/)
-* [ExpressJS](https://expressjs.com/)
+* HTML
+* CSS
+* Javascript
+* NodeJS
+* ExpressJS
 
 
 ## Questions
