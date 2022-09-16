@@ -42,4 +42,4 @@ The link to the deployed application is
 
 
 ## Questions
-For any question, please contact me on Github at Livmeierx
+Questions? Please contact me on Github: [livmeierx](https://github.com/livmeierx).
